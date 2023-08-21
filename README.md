@@ -15,7 +15,7 @@
 
 ## Getting Started
 
-1. Clone this repository: `git clone https://github.com/yourusername/task-scheduler-executor.git`
+1. Clone this repository: `git clone [https://github.com/OriCohen05/task-scheduler-executor.git](https://github.com/OriCohen05/Task-Scheduler-and-Executor-TS)`
 2. Navigate to the project folder: `cd task-scheduler-executor`
 3. Install dependencies (if needed): `npm install`
 4. Compile TypeScript code: `npx tsc`
